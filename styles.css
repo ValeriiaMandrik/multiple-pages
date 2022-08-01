@@ -1,8 +1,12 @@
 h1 {
   color: yellowgreen;
-  background-color: azure;
+  background-color: rgb(138, 132, 173);
 }
 
 p {
   color: blue;
+}
+
+body {
+  background-color: darkkhaki;
 }
